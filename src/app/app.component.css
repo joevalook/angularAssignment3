@@ -1,0 +1,12 @@
+.white-text {
+  color: white;
+}
+
+.rowAlign{
+  display:flex;
+  flex-direction: row;
+}
+
+.paddingLeft{
+  padding-left: 100px;
+}
